@@ -1,0 +1,8 @@
+{
+  "name": "d3d12-learning",
+  "version-string": "1.0",
+  "dependencies": 
+  [
+	"directx-headers"
+  ]
+}
